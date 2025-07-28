@@ -17,9 +17,7 @@ pip install -r requirements.txt
 ## Structure
 
 - `figure`: method illustration and visualization.
-- `model`: architecture of FedEmbryo.
 - `Utils`: utility functions 
-- `output`: results.
 - `mains`: code for training and validation.
 
 ## Usage
